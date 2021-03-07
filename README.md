@@ -6,8 +6,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:urimeba511@gmail.com)
 &nbsp;
 
-<h2 align="center"> 👨‍💻 <b>urimeba2 || urimeba</b>  <img align="right" alt="GIF" src="https://on-cloud.com/wp-content/uploads/2019/11/oncloud-logo-en-sticky.svg" width="420" height="260" />
-</h2>
+<h2 align="center"> 👨‍💻 <b>urimeba2 || urimeba</b>  </h2>
+<img align="left" alt="GIF" src="https://on-cloud.com/wp-content/uploads/2019/11/oncloud-logo-en-sticky.svg" width="420" height="100" />
+
 <p align="center">
   <samp> 
     Software Engineering. Full-Stack Developer on "Oncloud: Subete a la Nube" (MX). Spanish Coordinator of the Django Team Translation. 
@@ -62,13 +63,14 @@
 ### Open Source:
 
 
-![](https://github-readme-stats.vercel.app/api?username=urimeba&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=urimeba2&show_icons=true)
 
-- Currently, I'm the Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
+- Since September 2020, I'm the Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
 - In 2020, I taught a semester course where I taught the +15 students about Python, MySQL, Django and Git.
-- Since February 2019, I'm collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
+- For almost two years (February 2019 - December 2020), I was collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects inside my university.
+- Now, I'm trying to help to the projects of the [OpenStack community](https://www.openstack.org/), as you can see in my commits and some of the IRCs and forums.
 
-### Currently...
+### Work
 Since December 2020, I'm a Full Stack Developer in "OnCloud: Subete a la Nuble" ("OnCloud: Get on the Cloud"), an Specialized Cloud Company, certified by VmWare as a Partner, as well certified at ISO's 9001, 20000-1 and 27001 . This is a growing mexican company with more than 6 years of experience in digital transformation through Cloud solutions, helping companies grow with greater productivity, whom have two certificated TIER III Data Centers, providing integral solutions that optimize companys operations with services like virtual servers, safety copies, fast recovery, disaster recovery plan and bandwidth optimization. You can reach us through https://on-cloud.com or my email: uriel@on-cloud.email
 
 ### Hackatons
