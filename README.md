@@ -1,9 +1,4 @@
-<!-- Your title -->
-## I'm Uriel Medina, Back-End Developer 🚀 from México.
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+## Uriel Medina, Full-Stack Developer Developer 🚀 from México.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/urimeba)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/urimeba/)
@@ -11,10 +6,11 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:urimeba511@gmail.com)
 &nbsp;
 
-<h2 align="center"> 👨‍💻 <b>urimeba2 || urimeba</b> </h2>
+<h2 align="center"> 👨‍💻 <b>urimeba2 || urimeba</b>  <img align="right" alt="GIF" src="https://on-cloud.com/wp-content/uploads/2019/11/oncloud-logo-en-sticky.svg" width="420" height="260" />
+</h2>
 <p align="center">
   <samp> 
-    Software Engineering. Back-end developer. Spanish Coordinator of the Django Team Translation. 
+    Software Engineering. Full-Stack Developer on "Oncloud: Subete a la Nube" (MX). Spanish Coordinator of the Django Team Translation. 
   </samp>
   <br> <br>
 </p>
@@ -71,6 +67,9 @@ You can use the website to generate badges: https://shields.io/
 - Currently, I'm the Spanish Coordinator of the [Django Team Translation](https://www.transifex.com/user/profile/urimeba/).
 - In 2020, I taught a semester course where I taught the +15 students about Python, MySQL, Django and Git.
 - Since February 2019, I'm collaborator of 'Development Center' (Centro de Desarrollo), a permanent space open to teachers and students for the creation of internal and external software and hardware projects.
+
+### Currently...
+Since December 2020, I'm a Full Stack Developer in "OnCloud: Subete a la Nuble" ("OnCloud: Get on the Cloud"), an Specialized Cloud Company, certified by VmWare as a Partner, as well certified at ISO's 9001, 20000-1 and 27001 . This is a growing mexican company with more than 6 years of experience in digital transformation through Cloud solutions, helping companies grow with greater productivity, whom have two certificated TIER III Data Centers, providing integral solutions that optimize companys operations with services like virtual servers, safety copies, fast recovery, disaster recovery plan and bandwidth optimization. You can reach us through https://on-cloud.com or my email: uriel@on-cloud.email
 
 ### Hackatons
 I love participating in these events, with a satisfactory participation in all of them. Due to our technical knowledge, two colleagues from the UAQ Faculty of Computer Science and I were among the 50 selected to participate in the "1st HackaFest" held at the IBERO Puebla University in October 2019, by Sparkassen-Finanzgruppe ( Financial Group of German Savings Banks), an event that lasted one week and where we presented the project for which we were invited by Sparkassen-Finanzgruppe to the Symposium "New Technologies and Financial Inclusion: Opportunities and challenges for the cooperative sector" of FIRA (Trusts Instituted in Relation to Agriculture) in the city of Morelia in November 2019, an event that lasted 1 day and where technological innovation solutions were proposed for the exponential growth of support that the Savings Banks provided to the Mexican countryside.
